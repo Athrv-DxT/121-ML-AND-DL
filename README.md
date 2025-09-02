@@ -18,7 +18,8 @@ Each day will contain:
 
 ## 📅 Progress Log  
 
-- **Day 01** → Matrix fundamentals, linear algebra ops, solving equations, SVD  
+- **Day 01** → Matrix fundamentals, linear algebra ops, solving equations, SVD 
+- **Day 02** → Vector Norms, Vector Spaces and Subspaces, Orthogonality, Projections
 - *(Will be updated daily)*  
 
 ---
