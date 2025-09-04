@@ -21,6 +21,7 @@ Each day will contain:
 - **Day 01** → Matrix fundamentals, linear algebra ops, solving equations, SVD 
 - **Day 02** → Vector Norms, Vector Spaces and Subspaces, Orthogonality, Projections
 - **Day 03** → Eigen Values and Eigen Vectors, Spectral Theory Basics, PCA fundamentals
+- **Day 04** → Diagonalization, Eigen decomposition and visualization, Applications in ML
 - *(Will be updated daily)*  
 
 ---
