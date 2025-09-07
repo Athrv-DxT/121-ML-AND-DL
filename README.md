@@ -24,6 +24,7 @@ Each day will contain:
 - **Day 04** → Diagonalization, Eigen decomposition and visualization, Applications in ML
 - **Day 05** → SVD Computation, Visualization of Original Matrix, Mini Project - concept + Image Compression
 - **Day 06** → Orthogonalization, Gram Schmidt process and visualization, Practical applications in ML
+- **Day 07** → Matrix Rank, Null Space and Visualization, Applications in ML
 - *(Will be updated daily)*  
 
 ---
