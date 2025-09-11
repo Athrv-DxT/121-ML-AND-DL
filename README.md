@@ -26,7 +26,8 @@ Each day will contain:
 - **Day 06** → Orthogonalization, Gram Schmidt process and visualization, Practical applications in ML
 - **Day 08** → Projection Matrices, Least Squares Solution (Normal Equation), Linear Regression using NumPy & scikit-learn,       Visualization & Applications in ML
 - **Day 09** → Understanding Positive Definite (PD) Matrices, Covariance Matrices in Machine Learning, Cholesky Decomposition , Visualization with heatmap
-- **Day 09** → Quadratic Forms - Loss Functions and Visualization - Contour plot, 3D plot, Gradient Descent, Applications in ML
+- **Day 10** → Quadratic Forms - Loss Functions and Visualization - Contour plot, 3D plot, Gradient Descent, Applications in ML
+- **Day 11** → Introduction to Gradients and jacobians, scalar and vector calculation, Gradient Descent visualization, Applications in ML
 - *(Will be updated daily)*  
 
 ---
