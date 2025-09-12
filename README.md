@@ -28,6 +28,7 @@ Each day will contain:
 - **Day 09** → Understanding Positive Definite (PD) Matrices, Covariance Matrices in Machine Learning, Cholesky Decomposition , Visualization with heatmap
 - **Day 10** → Quadratic Forms - Loss Functions and Visualization - Contour plot, 3D plot, Gradient Descent, Applications in ML
 - **Day 11** → Introduction to Gradients and jacobians, scalar and vector calculation, Gradient Descent visualization, Applications in ML
+- **Day 12** → Linear Algebra Recap Day 1 to Day 11, Mini project using learned concepts
 - *(Will be updated daily)*  
 
 ---
