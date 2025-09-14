@@ -30,6 +30,7 @@ Each day will contain:
 - **Day 11** → Introduction to Gradients and jacobians, scalar and vector calculation, Gradient Descent visualization, Applications in ML
 - **Day 12** → Linear Algebra Recap Day 1 to Day 11, Mini project using learned concepts
 - **Day 13** → Events and probability, conditional probability, simulations and visualization
+- **Day 14** → Random Variables- Discrete and Continuous, Distributions- Bernoulli, Binomial, Normal and Uniform, Simulation of expectation and variance using Binomial Distribution
 - *(Will be updated daily)*  
 
 ---
