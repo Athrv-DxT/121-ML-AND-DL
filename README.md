@@ -31,7 +31,8 @@ Each day will contain:
 - **Day 12** → Linear Algebra Recap Day 1 to Day 11, Mini project using learned concepts
 - **Day 13** → Events and probability, conditional probability, simulations and visualization
 - **Day 14** → Random Variables- Discrete and Continuous, Distributions- Bernoulli, Binomial, Normal and Uniform, Simulation of expectation and variance using Binomial Distribution
-- **Day 15** → - Expectation (Mean) Basics, Variance & Standard Deviation, Variance via Expectation Formula, Law of Large Numbers Demonstration, Expectation of Discrete Random Variables, Expectation of Continuous Random Variables  
+- **Day 15** → Expectation (Mean) Basics, Variance & Standard Deviation, Variance via Expectation Formula, Law of Large Numbers Demonstration, Expectation of Discrete Random Variables, Expectation of Continuous Random Variables  
+- **Day 16** → Bayes Theorem basics, Law of Total Probability, Multiple hypotheses / normalization, Bayesian inference (Beta-Binomial) example, Prior sensitivity analysis  
 - *(Will be updated daily)*  
 
 ---
