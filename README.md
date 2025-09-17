@@ -34,6 +34,7 @@ Each day will contain:
 - **Day 15** → Expectation (Mean) Basics, Variance & Standard Deviation, Variance via Expectation Formula, Law of Large Numbers Demonstration, Expectation of Discrete Random Variables, Expectation of Continuous Random Variables  
 - **Day 16** → Bayes Theorem basics, Law of Total Probability, Multiple hypotheses / normalization, Bayesian inference (Beta-Binomial) example, Prior sensitivity analysis  
 - **Day 17** → Random Sampling basics, Sampling Distribution of the Mean, Central Limit Theorem (CLT), Law of Large Numbers (LLN), Standard Error & Confidence Intervals, Random Sampling Simulations
+Day 18 → Hypothesis Testing basics, p-values, z-test, one-sample t-test, two-sample t-test, Decision Rules, Visualization of Critical Regions
 - *(Will be updated daily)*  
 
 ---
