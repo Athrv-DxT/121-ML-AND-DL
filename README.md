@@ -33,6 +33,7 @@ Each day will contain:
 - **Day 14** → Random Variables- Discrete and Continuous, Distributions- Bernoulli, Binomial, Normal and Uniform, Simulation of expectation and variance using Binomial Distribution
 - **Day 15** → Expectation (Mean) Basics, Variance & Standard Deviation, Variance via Expectation Formula, Law of Large Numbers Demonstration, Expectation of Discrete Random Variables, Expectation of Continuous Random Variables  
 - **Day 16** → Bayes Theorem basics, Law of Total Probability, Multiple hypotheses / normalization, Bayesian inference (Beta-Binomial) example, Prior sensitivity analysis  
+- **Day 17** → Random Sampling basics, Sampling Distribution of the Mean, Central Limit Theorem (CLT), Law of Large Numbers (LLN), Standard Error & Confidence Intervals, Random Sampling Simulations
 - *(Will be updated daily)*  
 
 ---
