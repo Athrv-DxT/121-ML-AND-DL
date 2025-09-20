@@ -36,6 +36,7 @@ Each day will contain:
 - **Day 17** → Random Sampling basics, Sampling Distribution of the Mean, Central Limit Theorem (CLT), Law of Large Numbers (LLN), Standard Error & Confidence Intervals, Random Sampling Simulations
 - **Day 18** → Hypothesis Testing basics, p-values, z-test, one-sample t-test, two-sample t-test, Decision Rules, Visualization of Critical Regions
 - **Day 19** → Exploratory Data Analysis (EDA) basics, Summary Statistics, Data Visualization (Histograms, Boxplots, Pairplots), Outlier Detection (Z-score, IQR method), Handling Missing Values
+- **Day 20** → Probability recap, Conditional Probability, Bayes Theorem, Law of Total Probability, Random Variables & Expectation, Variance & Standard Deviation, Hypothesis Testing recap, Mini Project with real-world dataset  
 - *(Will be updated daily)*  
 
 ---
