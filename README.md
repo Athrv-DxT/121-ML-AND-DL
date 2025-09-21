@@ -37,6 +37,7 @@ Each day will contain:
 - **Day 18** → Hypothesis Testing basics, p-values, z-test, one-sample t-test, two-sample t-test, Decision Rules, Visualization of Critical Regions
 - **Day 19** → Exploratory Data Analysis (EDA) basics, Summary Statistics, Data Visualization (Histograms, Boxplots, Pairplots), Outlier Detection (Z-score, IQR method), Handling Missing Values
 - **Day 20** → Probability recap, Conditional Probability, Bayes Theorem, Law of Total Probability, Random Variables & Expectation, Variance & Standard Deviation, Hypothesis Testing recap, Mini Project with real-world dataset  
+- **Day 21** → Correlation & Covariance concepts, Covariance vs Correlation comparison, Correlation matrices, Applications in ML
 - *(Will be updated daily)*  
 
 ---
