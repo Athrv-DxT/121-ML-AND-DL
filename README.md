@@ -39,6 +39,7 @@ Each day will contain:
 - **Day 20** → Probability recap, Conditional Probability, Bayes Theorem, Law of Total Probability, Random Variables & Expectation, Variance & Standard Deviation, Hypothesis Testing recap, Mini Project with real-world dataset  
 - **Day 21** → Correlation & Covariance concepts, Covariance vs Correlation comparison, Correlation matrices, Applications in ML
 - **Day 22** → Law of Large Numbers, Simulations with Multiple Distributions & Confidence Intervals in Python
+- **Day 23** → Probability Distributions Advanced: Chi-Square & t-Distribution Coding with Visualizations
 - *(Will be updated daily)*  
 
 ---
