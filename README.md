@@ -41,6 +41,7 @@ Each day will contain:
 - **Day 22** → Law of Large Numbers, Simulations with Multiple Distributions & Confidence Intervals in Python
 - **Day 23** → Probability Distributions Advanced: Chi-Square & t-Distribution Coding with Visualizations
 - **Day 24** → Confidence Intervals, CI for mean/proportion/difference in means, impact of confidence levels, visualization using real dataset
+- **Day 25** → Statistics Recap + Mini Project integrating Statistics & Linear Algebra concepts
 - *(Will be updated daily)*  
 
 ---
