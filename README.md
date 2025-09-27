@@ -43,6 +43,7 @@ Each day will contain:
 - **Day 24** → Confidence Intervals, CI for mean/proportion/difference in means, impact of confidence levels, visualization using real dataset
 - **Day 25** → Statistics Recap + Mini Project integrating Statistics & Linear Algebra concepts
 - **Day 26** → Introduction to Machine Learning, EDA & Visualization on California Housing Dataset, Linear Regression Implementation & Model Evaluation
+- **Day 27** → Simple & Multiple Linear Regression, Model Evaluation, and Visualization on California Housing Dataset
 - *(Will be updated daily)*  
 
 ---
