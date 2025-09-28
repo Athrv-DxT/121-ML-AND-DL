@@ -44,7 +44,9 @@ Each day will contain:
 - **Day 25** → Statistics Recap + Mini Project integrating Statistics & Linear Algebra concepts
 - **Day 26** → Introduction to Machine Learning, EDA & Visualization on California Housing Dataset, Linear Regression Implementation & Model Evaluation
 - **Day 27** → Simple & Multiple Linear Regression, Model Evaluation, and Visualization on California Housing Dataset
+- **Day 28** → Feature Engineering with Polynomial Features & Model Training for Non-linear Relationships.
 - *(Will be updated daily)*  
+
 
 ---
 
