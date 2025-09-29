@@ -45,6 +45,7 @@ Each day will contain:
 - **Day 26** → Introduction to Machine Learning, EDA & Visualization on California Housing Dataset, Linear Regression Implementation & Model Evaluation
 - **Day 27** → Simple & Multiple Linear Regression, Model Evaluation, and Visualization on California Housing Dataset
 - **Day 28** → Feature Engineering with Polynomial Features & Model Training for Non-linear Relationships.
+- **Day 29** → Implemented L1 (Lasso) & L2 (Ridge) Regularization with visualization using the California Housing dataset.
 - *(Will be updated daily)*  
 
 
