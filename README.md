@@ -46,6 +46,7 @@ Each day will contain:
 - **Day 27** → Simple & Multiple Linear Regression, Model Evaluation, and Visualization on California Housing Dataset
 - **Day 28** → Feature Engineering with Polynomial Features & Model Training for Non-linear Relationships.
 - **Day 29** → Implemented L1 (Lasso) & L2 (Ridge) Regularization with visualization using the California Housing dataset.
+- **Day 30** → Logistic Regression for classification, implemented on the Breast Cancer dataset, Sigmoid function, evaluation metrics, and visualization using confusion matrix
 - *(Will be updated daily)*  
 
 
