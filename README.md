@@ -48,6 +48,7 @@ Each day will contain:
 - **Day 29** → Implemented L1 (Lasso) & L2 (Ridge) Regularization with visualization using the California Housing dataset.
 - **Day 30** → Logistic Regression for classification, implemented on the Breast Cancer dataset, Sigmoid function, evaluation metrics, and visualization using confusion matrix
 - **Day 31** → Implemented K-Nearest Neighbors (KNN) on the Iris dataset, experimented with different values of k, analyzed accuracy trends.
+- **Day 32** → Decision Trees: Classification & Regression with Entropy, Gini Index, and Pruning
 - *(Will be updated daily)*  
 
 
