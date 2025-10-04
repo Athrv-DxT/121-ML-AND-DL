@@ -50,6 +50,7 @@ Each day will contain:
 - **Day 31** → Implemented K-Nearest Neighbors (KNN) on the Iris dataset, experimented with different values of k, analyzed accuracy trends.
 - **Day 32** → Decision Trees: Classification & Regression with Entropy, Gini Index, and Pruning
 - **Day 33** → Random Forests: Ensemble Learning with Classification & Regression, OOB score, Feature Importance, and Hyperparameter Tuning
+- **Day 34** → Bagging & Boosting: Implemented Bagging, AdaBoost, and Gradient Boosting with performance evaluation & feature importance visualization.
 - *(Will be updated daily)*  
 
 
