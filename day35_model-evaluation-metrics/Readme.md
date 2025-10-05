@@ -16,5 +16,6 @@ Also explored:
 - **F1 Score**: Harmonic mean of precision and recall.  
 - **Classification Report**: Sklearn’s utility for quick evaluation.  
 - **Confusion Matrix heatmap** for visual analysis.  
+- **ROC Curve and AUC**
 
 ---
