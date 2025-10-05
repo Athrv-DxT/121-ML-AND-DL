@@ -51,7 +51,7 @@ Each day will contain:
 - **Day 32** → Decision Trees: Classification & Regression with Entropy, Gini Index, and Pruning
 - **Day 33** → Random Forests: Ensemble Learning with Classification & Regression, OOB score, Feature Importance, and Hyperparameter Tuning
 - **Day 34** → Bagging & Boosting: Implemented Bagging, AdaBoost, and Gradient Boosting with performance evaluation & feature importance visualization.
-- **Day 35** → Model Evaluation Metrics: Accuracy, Precision, Recall, F1-score, Classification report, Visualization using Heatmap
+- **Day 35** → Model Evaluation Metrics: Accuracy, Precision, Recall, F1-score, Classification report, Visualization using Heatmap, ROC curve and AUC
 - *(Will be updated daily)*  
 
 
