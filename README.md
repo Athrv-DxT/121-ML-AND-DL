@@ -52,6 +52,7 @@ Each day will contain:
 - **Day 33** → Random Forests: Ensemble Learning with Classification & Regression, OOB score, Feature Importance, and Hyperparameter Tuning
 - **Day 34** → Bagging & Boosting: Implemented Bagging, AdaBoost, and Gradient Boosting with performance evaluation & feature importance visualization.
 - **Day 35** → Model Evaluation Metrics: Accuracy, Precision, Recall, F1-score, Classification report, Visualization using Heatmap, ROC curve and AUC
+- **Day 36** → Cross Validation Techniques: Implemented K-Fold and Stratified K-Fold with Performance Visualization
 - *(Will be updated daily)*  
 
 
