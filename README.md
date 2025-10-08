@@ -54,6 +54,7 @@ Each day will contain:
 - **Day 35** → Model Evaluation Metrics: Accuracy, Precision, Recall, F1-score, Classification report, Visualization using Heatmap, ROC curve and AUC
 - **Day 36** → Cross Validation Techniques: Implemented K-Fold and Stratified K-Fold with Performance Visualization
 - **Day 37** → Bias-Variance Tradeoff: Theory + Visualization of model complexity vs. total error
+- **Day 38** → Feature Scaling: Normalization, Standardization, and Robust Scaling with visualization
 - *(Will be updated daily)*  
 
 
